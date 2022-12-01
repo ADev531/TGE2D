@@ -1,5 +1,8 @@
+a {
+  text-decoration: none;
+}
+
 #cgetitle {
   font-weight: 5000;
-  text-decoration: none;
   color: green;
 }
