@@ -1,9 +1,11 @@
 #documentlink {
   text-decoration: none;
+  color: black;
 }
 
 #codebox {
   background-color: gray;
+  color: white
 }
 
 #cgetitle {
