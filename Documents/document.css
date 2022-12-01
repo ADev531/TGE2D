@@ -2,6 +2,10 @@
   text-decoration: none;
 }
 
+#codebox {
+  background-color: gray;
+}
+
 #cgetitle {
   font-weight: 5000;
   color: green;
